@@ -43,7 +43,7 @@ export default function about() {
                 Who am I?{" "}
               </h1>
               <p className="lg:text-[32px] text-[16px] text-poppins  ml-3 font-light">
-                I’m Joshua Atanu, a web developer who is passionate about
+                I’m Samuel Ebisemiju, a developer who is passionate about
                 creating amazing <br /> digital experiences. I specialize in
                 developing custom websites that are both <br /> functional and
                 visually stunning. I have the skills and expertise to bring your

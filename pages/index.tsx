@@ -34,7 +34,7 @@ export default function Home() {
         <section className="pt-20 bg-white px-16 mb-[75px] ">
           <h1 className="text-[96px] text-gray-950 text-playfair-italic font-bold">
             {" "}
-            I'm Joshua ...{" "}
+            I'm Samuel ...{" "}
           </h1>
           <p className="text-[40px] text-poppins font-light">
             a web & mobile developer. Browse through my <br /> selected projects
